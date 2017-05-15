@@ -141,7 +141,7 @@ Head to [Trello](https://trello.com), make a new board, and create three lists: 
 
 For each user story it is possible to break it down into sub tasks.
 
-![A user story's tasks](https://cloud.githubusercontent.com/assets/4304660/26043705/fea5b99e-3904-11e7-930d-313d75f61cdb.png)
+![story-tasks](https://cloud.githubusercontent.com/assets/4304660/26043760/7723201e-3905-11e7-96a1-ad384389cb4f.png)
 
 
 > Challenge: Write an example user story either for tic-tack-toe or for an original game you are planning to build.
