@@ -136,19 +136,13 @@ A collection of user stories will contain an overall point score.
 
 Head to [Trello](https://trello.com), make a new board, and create three lists: "To Do", "Doing", and "Done".
 
-<figure>
-  <img src="imgs/user-stories.png" alt="Kanban-style user stories">
-  <br>
-  <figcaption>Kanban-style user stories</figcaption>
-</figure>
+![Kanban-style user stories](https://cloud.githubusercontent.com/assets/4304660/26043705/fea5b99e-3904-11e7-930d-313d75f61cdb.png)
+
 
 For each user story it is possible to break it down into sub tasks.
 
-<figure>
-  <img src="imgs/story-tasks.png" alt="user story tasks">
-  <br>
-  <figcaption>A user story's tasks</figcaption>
-</figure>
+![A user story's tasks](https://cloud.githubusercontent.com/assets/4304660/26043705/fea5b99e-3904-11e7-930d-313d75f61cdb.png)
+
 
 > Challenge: Write an example user story either for tic-tack-toe or for an original game you are planning to build.
 
