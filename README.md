@@ -23,7 +23,7 @@ Well-planned projects with flexible processes are more enjoyable to work on and 
 
 * Have projects in the planning phase
 
-##Waterfall Methodology
+## Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
 
@@ -85,19 +85,19 @@ Discuss with a partner a personal experience you had working in either of these 
 
 ## Best practices
 
-####Satisfy the Customer
+#### Satisfy the Customer
 
 * **User stories** define the features an application will provide in a simple and concise way.
 
 * **Wireframes** define the user interface of the application.
 
-####Deliver Working Software
+#### Deliver Working Software
 
 * **Pair programming** is development technique in which two programmers work on a specific problem together.
 
 * **Test-driven development** improves code design and quality.
 
-####Work Together
+#### Work Together
 
 * **Scrum meetings** are short meetings used to plan, review, and increase accountability and clarity across a team.
 
@@ -105,7 +105,7 @@ Discuss with a partner a personal experience you had working in either of these 
 
 ## User Stories
 
-###How do I know what the client wants?
+### How do I know what the client wants?
 
 When you meet with the client translate all the features that you discuss into **user stories** following the format:
 
@@ -116,7 +116,7 @@ For example:
 - _A user can read reviews of a book (so that they are better informed when making a purchase)._
 - _An admin can update the inventory of a book so that the buyers know what is available._
 
-###How can I make an accurate time and budget quote on a project?
+### How can I make an accurate time and budget quote on a project?
 
 As a user story complexity increases linearly, its time to complete it will increase geometrically. As a result, when assigning weighing each user story's relative complexity assign it a fibonacci number that corresponds to the relative time it will require. This is called the **point system** and is a great way to budget time and money.
 
@@ -132,7 +132,7 @@ Once all the user stories are assigned points, it is possible to start estimatin
 
 A collection of user stories will contain an overall point score.
 
-###What tools should I use to do this?
+### What tools should I use to do this?
 
 Head to [Trello](https://trello.com), make a new board, and create three lists: "To Do", "Doing", and "Done".
 
@@ -168,7 +168,7 @@ Can the user intuitively **navigate** through the experience and **interface** w
 
 > Challenge: Wire frame the new page for [Tesla's Model 3](https://www.teslamotors.com/model3)
 
-##Pair Programming
+## Pair Programming
 
 The practice of pair programming is cited to: **improve code quality** through an increase in communication, **facilitate team cohesion** through collective code ownership, **improve long-term velocity** through a reduction in errors made, in addition to other benefits! 
 
@@ -178,7 +178,7 @@ One programmer, the driver, writes code while the other, the navigator, reviews 
 
 Checkout [how Atlassian does it](https://www.youtube.com/watch?v=dYBjVTMUQY0)
 
-##TDD
+## TDD
 
 Test driven development will improve the design and quality of the code written. It follows the cycle:
 
@@ -186,7 +186,7 @@ Test driven development will improve the design and quality of the code written.
 
 *Note: pair programming and TDD can work well together in a [ping pong pattern](http://c2.com/cgi/wiki?PairProgrammingPingPongPattern).*
 
-##Scrum
+## Scrum
 
 Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "self-organize". It is recommended to keep the scrum as *short as possible*. Agree on a duration of about 5-15 minutes. Scrums are typically conducted at the very beginning of every day additionally as needed (i.e. afternoon and the end of the day). A standard format is to go around in a circle and for each person to answer the following questions:
 
@@ -198,11 +198,11 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum at your tables
 
-##Retrospective
+## Retrospective
 
 At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) for which to conduct a retrospective; the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
 
-###Example Retrospective: The Six Hats
+### Example Retrospective: The Six Hats
 
 **Blue Hat**
 
@@ -228,13 +228,15 @@ The discussion moves on to any **ideas** people have about solving problems or t
 
 Give the participants a short period of time in which they can come up to the board and write down 2 **emotive statements** each. These could be the issues that have stood out for them the most or an idea for solving a problem. These statements should be instinctive which is why you will give them very little time to do this.
 
-##Closing Thoughts
+## Closing Thoughts
 
 - How can writting user stories help manage our clients from a time and cost perspective?
 - Name two process a team can adhere to in order to improve the quality of the code produced.
 - Assuming the use of TDD, how would feature request get translated into working code?
 - What's one thing a team can do to better self-organize and be more effective.
 
-##Related Resources
+## Related Resources
 
 * [Building an MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+* [Atlassian Build Methodology](https://www.youtube.com/watch?v=dYBjVTMUQY0)
+* [Pair Programming Interview with Lucy Bain](https://www.youtube.com/watch?v=cl1PTUQvcX0)
